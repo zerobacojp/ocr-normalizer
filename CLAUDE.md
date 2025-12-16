@@ -41,8 +41,8 @@ Tesseract OCR must be installed with appropriate language packs:
 - On macOS: `brew install tesseract tesseract-lang`
 - On Windows: Download from GitHub releases and add to PATH
 
----
-
+-------
+#(추가)
 # Project: OCR → 정규화 → CSV/Excel 파이프라인
 
 ## 목적
